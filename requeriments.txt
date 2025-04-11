@@ -1,2 +1,3 @@
 streamlit
-azurew-strow
+azure-storge-blob
+pymssql
